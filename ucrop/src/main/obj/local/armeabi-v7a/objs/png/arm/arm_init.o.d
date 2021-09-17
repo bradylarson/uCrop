@@ -1,23 +1,23 @@
 /Users/bradylarson/Development/uCrop/ucrop/src/main/obj/local/armeabi-v7a/objs/png/arm/arm_init.o: \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/arm/arm_init.c \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/arm/../pngpriv.h \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pnglibconf.h \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/png.h \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pngconf.h \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pngstruct.h \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pnginfo.h \
-  /Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pngdebug.h
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/arm/arm_init.c \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/arm/../pngpriv.h \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pnglibconf.h \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/png.h \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pngconf.h \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pngstruct.h \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pnginfo.h \
+  /Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pngdebug.h
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/arm/../pngpriv.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/arm/../pngpriv.h:
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pnglibconf.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pnglibconf.h:
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/png.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/png.h:
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pngconf.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pngconf.h:
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pngstruct.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pngstruct.h:
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pnginfo.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pnginfo.h:
 
-/Users/bradylarson/Development/uCrop/ucrop/src/main/jni/libpng/pngdebug.h:
+/Users/bradylarson/Library/Android/sdk/ndk-bundle/sources/libpng/jni/pngdebug.h:
