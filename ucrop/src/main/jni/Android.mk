@@ -6,9 +6,8 @@ LOCAL_MODULE    := ucrop
 LOCAL_SRC_FILES := uCrop.cpp
 
 LOCAL_LDLIBS    := -landroid -llog -lz
-LOCAL_STATIC_LIBRARIES := libpng libjpeg
+LOCAL_STATIC_LIBRARIES := libpng libjpeg9
 
 include $(BUILD_SHARED_LIBRARY)
-$(call import-add-path, /Users/bradylarson/Development/uCrop/ucrop/src/main/jni)
-$(call import-module,libpng)
-$(call import-module,libjpeg)
+$(call import-module,libpng/jni)
+$(call import-module,libjpeg9)
